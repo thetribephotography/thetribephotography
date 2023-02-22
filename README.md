@@ -6,12 +6,13 @@
 
 - 📫 You can reach me at **fiyinfoluwaegbeleke@gmail.com**
 
-- 📄 You can also reach me at [https://www.linkedin.com/in/daniel-egbeleke-60a119226/](https://www.linkedin.com/in/daniel-egbeleke-60a119226/)
+<!-- - 📄 You can also reach me at [https://www.linkedin.com/in/daniel-egbeleke-60a119226/](https://www.linkedin.com/in/daniel-egbeleke-60a119226/) -->
 
 - ⚡ Fun fact **I am very Boring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ Linkedln: https://www.linkedin.com/in/daniel-egbeleke-60a119226/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
