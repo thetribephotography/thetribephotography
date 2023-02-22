@@ -1,3 +1,4 @@
+![](https://github.com/thetribephotography/thetribephotography/blob/main/learning-g073e8e982_1280.jpg)
 <h1 align="center">Hi 👋, I'm Daniel Egbeleke</h1>
 <h3 align="center">A FullStack Software Engineer who's passionate about changing the way Businesses Operate through Technology</h3>
 
