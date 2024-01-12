@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Egbeleke</h1>
 <h3 align="center">A FullStack Software Engineer who's passionate about changing the way Businesses Operate through Technology</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 📫 You can reach me at **fiyinfoluwaegbeleke@gmail.com**
 
 <!-- - 📄 You can also reach me at [https://www.linkedin.com/in/daniel-egbeleke-60a119226/](https://www.linkedin.com/in/daniel-egbeleke-60a119226/) -->
 
-- ⚡ Fun fact **I am very Boring.**
+- ⚡ Fun fact **I Play Chess Alot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
