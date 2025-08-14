@@ -1,6 +1,6 @@
 ![](https://github.com/thetribephotography/thetribephotography/blob/main/learning-g073e8e982_1280.jpg)
 <h1 align="center">Hi 👋, Daniel Here</h1>
-<h3 align="center">I Build Stuff That Makes Money...Period</h3>
+<h3 align="center">I Products That Make You Money...Period</h3>
 
 - 🌱 Going to be that **CyberSecurity** Guy One Day
 
