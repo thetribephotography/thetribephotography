@@ -1,14 +1,14 @@
 ![](https://github.com/thetribephotography/thetribephotography/blob/main/learning-g073e8e982_1280.jpg)
-<h1 align="center">Hi 👋, I'm Daniel Egbeleke</h1>
-<h3 align="center">A FullStack Software Engineer who's passionate about changing the way Businesses Operate through Technology</h3>
+<h1 align="center">Hi 👋, Daniel Here</h1>
+<h3 align="center">I Build Stuff That Makes Money...Period</h3>
 
-- 🌱 I’m currently On my way to be The **CyberSecurity** Guy
+- 🌱 Going to be that **CyberSecurity** Guy One Day
 
 - 📫 You can reach me at **fiyinfoluwaegbeleke@gmail.com**
 
 <!-- - 📄 You can also reach me at [https://www.linkedin.com/in/daniel-egbeleke-60a119226/](https://www.linkedin.com/in/daniel-egbeleke-60a119226/) -->
 
-- ⚡ Fun fact **I Used to Play Chess Alot.**
+- ⚡ Fun fact **I Play Chess Alot....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
